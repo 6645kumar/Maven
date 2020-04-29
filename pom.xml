@@ -21,7 +21,7 @@
         <!-- You can ommit this because it is default -->
         <scope>compile</scope>
     </dependency>
-</dependencies>
+  </dependencies>
   
   <build>
     <finalName>WebApp</finalName>
