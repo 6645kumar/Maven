@@ -13,6 +13,3 @@ Deploy ```target/WebApp.war``` on Tomcat
 #TODO
  
 Add instruction to deploy to ElasticBeanstalk
-
-
-i am new Dev1 branch Second Commit SONAR
